@@ -1,0 +1,17 @@
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\bin\Debug\net6.0-windows\Variables.exe
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\bin\Debug\net6.0-windows\Variables.deps.json
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\bin\Debug\net6.0-windows\Variables.runtimeconfig.json
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\bin\Debug\net6.0-windows\Variables.dll
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\bin\Debug\net6.0-windows\Variables.pdb
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\obj\Debug\net6.0-windows\Variables.vbproj.AssemblyReference.cache
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\obj\Debug\net6.0-windows\Variables.Form1.resources
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\obj\Debug\net6.0-windows\Variables.vbproj.GenerateResource.cache
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\obj\Debug\net6.0-windows\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\obj\Debug\net6.0-windows\Variables.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\obj\Debug\net6.0-windows\Variables.AssemblyInfo.vb
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\obj\Debug\net6.0-windows\Variables.vbproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\obj\Debug\net6.0-windows\Variables.dll
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\obj\Debug\net6.0-windows\refint\Variables.dll
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\obj\Debug\net6.0-windows\Variables.pdb
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\obj\Debug\net6.0-windows\Variables.genruntimeconfig.cache
+C:\Users\SAILS-DM110\source\repos\Variables\Variables\obj\Debug\net6.0-windows\ref\Variables.dll

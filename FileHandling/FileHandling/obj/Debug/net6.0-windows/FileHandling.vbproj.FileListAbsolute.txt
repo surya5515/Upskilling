@@ -1,0 +1,17 @@
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\bin\Debug\net6.0-windows\FileHandling.exe
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\bin\Debug\net6.0-windows\FileHandling.deps.json
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\bin\Debug\net6.0-windows\FileHandling.runtimeconfig.json
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\bin\Debug\net6.0-windows\FileHandling.dll
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\bin\Debug\net6.0-windows\FileHandling.pdb
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\obj\Debug\net6.0-windows\FileHandling.vbproj.AssemblyReference.cache
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\obj\Debug\net6.0-windows\FileHandling.Form1.resources
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\obj\Debug\net6.0-windows\FileHandling.vbproj.GenerateResource.cache
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\obj\Debug\net6.0-windows\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\obj\Debug\net6.0-windows\FileHandling.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\obj\Debug\net6.0-windows\FileHandling.AssemblyInfo.vb
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\obj\Debug\net6.0-windows\FileHandling.vbproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\obj\Debug\net6.0-windows\FileHandling.dll
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\obj\Debug\net6.0-windows\refint\FileHandling.dll
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\obj\Debug\net6.0-windows\FileHandling.pdb
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\obj\Debug\net6.0-windows\FileHandling.genruntimeconfig.cache
+C:\Users\SAILS-DM110\source\repos\FileHandling\FileHandling\obj\Debug\net6.0-windows\ref\FileHandling.dll

@@ -1,0 +1,17 @@
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\bin\Debug\net6.0-windows\EventHandling.exe
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\bin\Debug\net6.0-windows\EventHandling.deps.json
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\bin\Debug\net6.0-windows\EventHandling.runtimeconfig.json
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\bin\Debug\net6.0-windows\EventHandling.dll
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\bin\Debug\net6.0-windows\EventHandling.pdb
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\obj\Debug\net6.0-windows\EventHandling.vbproj.AssemblyReference.cache
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\obj\Debug\net6.0-windows\EventHandling.Form1.resources
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\obj\Debug\net6.0-windows\EventHandling.vbproj.GenerateResource.cache
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\obj\Debug\net6.0-windows\EventHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\obj\Debug\net6.0-windows\EventHandling.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\obj\Debug\net6.0-windows\EventHandling.AssemblyInfo.vb
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\obj\Debug\net6.0-windows\EventHandling.vbproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\obj\Debug\net6.0-windows\EventHandling.dll
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\obj\Debug\net6.0-windows\refint\EventHandling.dll
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\obj\Debug\net6.0-windows\EventHandling.pdb
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\obj\Debug\net6.0-windows\EventHandling.genruntimeconfig.cache
+C:\Users\SAILS-DM110\source\repos\EventHandling\EventHandling\obj\Debug\net6.0-windows\ref\EventHandling.dll

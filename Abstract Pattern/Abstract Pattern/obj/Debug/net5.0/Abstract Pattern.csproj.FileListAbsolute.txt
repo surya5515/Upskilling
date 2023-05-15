@@ -1,0 +1,17 @@
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\bin\Debug\net5.0\Abstract Pattern.exe
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\bin\Debug\net5.0\Abstract Pattern.deps.json
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\bin\Debug\net5.0\Abstract Pattern.runtimeconfig.json
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\bin\Debug\net5.0\Abstract Pattern.runtimeconfig.dev.json
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\bin\Debug\net5.0\Abstract Pattern.dll
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\bin\Debug\net5.0\ref\Abstract Pattern.dll
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\bin\Debug\net5.0\Abstract Pattern.pdb
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\obj\Debug\net5.0\Abstract Pattern.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\obj\Debug\net5.0\Abstract Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\obj\Debug\net5.0\Abstract Pattern.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\obj\Debug\net5.0\Abstract Pattern.AssemblyInfo.cs
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\obj\Debug\net5.0\Abstract Pattern.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\obj\Debug\net5.0\Abstract Pattern.dll
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\obj\Debug\net5.0\ref\Abstract Pattern.dll
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\obj\Debug\net5.0\Abstract Pattern.pdb
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\obj\Debug\net5.0\Abstract Pattern.genruntimeconfig.cache
+C:\Users\SAILS-DM110\source\repos\Abstract Pattern\Abstract Pattern\bin\Debug\net5.0\Class5.cs
